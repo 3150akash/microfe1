@@ -70,3 +70,6 @@ export const BodyPlaceholder = () => {
     </div>
   );
 };
+
+
+export default BodyPlaceholder
