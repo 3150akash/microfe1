@@ -1,3 +1,4 @@
+import '../../styles/output.css'; 
 export const BodyPlaceholder = () => {
   return (
     <div className="max-w-lg mx-auto">

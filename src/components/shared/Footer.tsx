@@ -1,3 +1,4 @@
+import '../../styles/output.css'; 
 export const Footer = () =>{
    return <>
    

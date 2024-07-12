@@ -37,7 +37,6 @@ module.exports = (webpackConfigEnv, argv) => {
             singleton: true, // Ensure single instance of React across microfrontends
             requiredVersion: deps.react,
             strictVersion: true, // Enforce exact React version match
-            
           },
           "react-dom": {
             eager: true,
